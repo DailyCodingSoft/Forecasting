@@ -1,0 +1,2 @@
+Aqui ideas del modelo sarisa
+Modelo ARIMA se usa cuando los datos no son estacionarios se aplica a datos transformados 
