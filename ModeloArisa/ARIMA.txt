@@ -11,7 +11,7 @@ Vertex AI
 
 BigQuery ML
 
-Cloud Run
+Cloud Run C:\Users\sebas\Proyectos\Redes-LSTM\ModeloArisa\ARIMA.txt
 
 💡 Lo potente:
 
