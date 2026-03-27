@@ -145,3 +145,10 @@ De comunidad:
 👉 Traducción:
 Nunca te cases con un solo modelo
 → prueba SARIMA + Prophet + XGBoost (si hay features)
+
+
+
+Datos por canasta 
+cada caunto modifican el Precio_compra
+como funciona el envase 
+el precio como se calcula
